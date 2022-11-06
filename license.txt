@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ferrari 458 Italia (2009)
+* source:	https://sketchfab.com/3d-models/ferrari-458-italia-2009-3a504c1f75e0492ab2d55b8c1cf5789d
+* author:	LePoint_BAT (https://sketchfab.com/LePointBAT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ferrari 458 Italia (2009)" (https://sketchfab.com/3d-models/ferrari-458-italia-2009-3a504c1f75e0492ab2d55b8c1cf5789d) by LePoint_BAT (https://sketchfab.com/LePointBAT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
